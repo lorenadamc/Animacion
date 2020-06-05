@@ -2,8 +2,6 @@ import sys
 import pygame
 import util
 from pygame.locals import *
-from random import *
-from heroe import *
 from constructores import *
 import copy
 SCREEN_WIDTH = 626

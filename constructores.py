@@ -14,7 +14,6 @@ class Director:
 
 class Constructor():
     def get_sprites(self): pass
-    def get_mensajes(self): pass
 
 class ConstructorGato():
     def __init__(self):
