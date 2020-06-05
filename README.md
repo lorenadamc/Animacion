@@ -11,10 +11,12 @@ _La mejor manera de instalar pygame es con la herramienta pip (que es lo que pyt
 ```
 python3 -m pip install -U pygame --user
 ```
-Para ver si funciona, ejecute uno de los ejemplos incluidos:
+_Para ver si funciona, ejecute uno de los ejemplos incluidos:_
 
+```
 python3 -m pygame.examples.aliens
-Si funciona, ¡estás listo para comenzar! Si no, hay instrucciones más detalladas y específicas de la plataforma más abajo en la página._
+```
+_Si funciona, ¡estás listo para comenzar! Si no, hay instrucciones más detalladas y específicas de la plataforma más abajo en la página._
 
 ## Patrones de Diseño ⚙️
 
@@ -27,6 +29,8 @@ Los patrones de creación abstraen la forma en la que se crean los objetos, perm
 ![abstract factory](UML/AbstractFactory.jpg)
 
 - **Builder:** Separa la construcción de un objeto complejo de su representación, de forma que el mismo proceso de construcción pueda crear diferentes representaciones.
+
+![builder](UML/Builder.jpg)
 
 ## Autores ✒️
 
