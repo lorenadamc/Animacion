@@ -1,3 +1,7 @@
+# Animacion
+
+_Programa para la creación y animación de 3 personajes, aplicando 2 patrones de diseño creacionales: **Builder** y **Abstract Factory**._
+
 ### Pre-requisitos 📋
 
 _Este programa se realizó con Pygame en Python. Pygame requiere Python; Si aún no lo tiene, puede descargarlo de python.org. Use python 3.7.7 o superior, porque es mucho más amigable para los novatos y, además, se ejecuta más rápido._
