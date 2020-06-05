@@ -2,7 +2,7 @@
 
 _Este programa se realizó con Pygame en Python. Pygame requiere Python; Si aún no lo tiene, puede descargarlo de python.org. Use python 3.7.7 o superior, porque es mucho más amigable para los novatos y, además, se ejecuta más rápido._
 
-![alt text](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
+![alt text](https://tenemosnoticias.com/wp-content/uploads/2020/06/Curso-gratuito-de-Programacion-de-videojuegos-con-Pygame.png)
 
 ### Instalación 🔧
 
