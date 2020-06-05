@@ -22,9 +22,9 @@ Si funciona, ¡estás listo para comenzar! Si no, hay instrucciones más detalla
 
 Los patrones de creación abstraen la forma en la que se crean los objetos, permitiendo tratar las clases a crear de forma genérica dejando para más tarde la decisión de qué clases crear o cómo crearlas.
 
-Abstract Factory: Proporciona una interfaz para crear familias de objetos o que dependen entre sí, sin especificar sus clases concretas.
+- **Abstract Factory:** Proporciona una interfaz para crear familias de objetos o que dependen entre sí, sin especificar sus clases concretas.
 
-Builder: Separa la construcción de un objeto complejo de su representación, de forma que el mismo proceso de construcción pueda crear diferentes representaciones.
+- **Builder:** Separa la construcción de un objeto complejo de su representación, de forma que el mismo proceso de construcción pueda crear diferentes representaciones.
 
 ## Autores ✒️
 
